@@ -1,0 +1,14 @@
+.heading{
+    width: 100%;
+}
+body{
+    background-size:cover;
+}
+#song_name_span{
+    width: 100%;
+}
+canvas{
+    border: 5px dotted white;
+    border-radius: 15px;
+
+}
